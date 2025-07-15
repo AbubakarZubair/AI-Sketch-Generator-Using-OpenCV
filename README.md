@@ -9,7 +9,7 @@ The project processes an input image through a series of computer vision techniq
 
 | Original Image | Pencil Sketch |
 |:--------------|:--------------|
-| ![Original](1.jpg) | ![Sketch](sketch.jpg) |
+| ![Original](1.jpg) | ![Sketch](1_sketch.jpg) |
 
 ---
 
