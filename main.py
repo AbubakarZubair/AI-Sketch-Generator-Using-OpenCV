@@ -30,7 +30,7 @@ inverted_blurred = 255 - blurred_img
 pencil_sketch = cv2.divide(grayscale_img, inverted_blurred, scale=256.0)
 
 # add text to the sketch
-cv2.putText(pencil_sketch, "Engr. Zia Ur Rehman", (width - 300, height - 30), 
+cv2.putText(pencil_sketch, "Engr. Abubakkar", (width - 300, height - 30), 
             cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2)
 
 # save the sketch image
